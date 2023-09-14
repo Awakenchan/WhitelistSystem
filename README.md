@@ -1,2 +1,2 @@
 # WhitelistSystem
-testing for my whitelist system. Currently plan to release it free and user friendly.
+Dm for personal use for my whitelist.
